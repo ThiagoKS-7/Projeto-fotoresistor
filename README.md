@@ -36,7 +36,7 @@
 Projeto simples de arduino com sensor PIR e Buzzer, do curso de IOT provido pelo Ecossistema Ânima
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-<a href="https://www.tinkercad.com/things/k3u1AWIdDhc-fotoresistor-exemplo-aula/editel">Tinkercad code</a>
+<a href="https://www.tinkercad.com/things/k3u1AWIdDhc-fotoresistor-exemplo-aula/editel">Tinkercad code >></a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
